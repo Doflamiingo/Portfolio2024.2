@@ -40,7 +40,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Webdesigner junior et passionné.",
+    title: "Webdesigner junior.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -76,34 +76,34 @@ export const projects = [
     id: 1,
     title: "CJ Portfolio",
     des: "Portfolio de CJ photographe, vidéaste et motion designer.",
-    img: "/ccj.jpg",
+    img: "/cj.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/html.svg"],
     link: "https://cj-tawny.vercel.app/",
     
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Urban Heaven",
+    des: "Your Ultimate Accommodation Experience in JBR  Elevate Your Stay in Dubai Vibrant Heartbeat!.",
+    img: "/urb.jpg",
+    iconLists: [ "/wp.svg"],
+     link: "https://urbanheavenjbr.com/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "PowerUp invest",
+    des: "Comprends et formes toi sur les #crypto et le #trading pour devenir indépendant financièrement.",
+    img: "/power.jpeg",
+    iconLists: ["/wp.svg"],
+    link: "https://powerup-invest.fr/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg","/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "ESCLAMSBB",
+    des: "Page sportif equipe NM2 basket",
+    img: "/esc.png",
+    iconLists: ["/wp.svg"],
+    link: "https://esclamsbb.com/",
   },
 ];
 
@@ -164,11 +164,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "/link.svg",
-    link: "https://powerup.com"
+    link: "https://www.linkedin.com/in/rapha%C3%ABl-raguette-093258189/"
   },
   {
     id: 2,
     img: "/twit.svg",
+     link: "https://www.instagram.com/le_r.dev/"
   },
 
 ];
