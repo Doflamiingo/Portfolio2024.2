@@ -78,7 +78,7 @@ export const projects = [
     des: "Portfolio de CJ photographe, vidéaste et motion designer.",
     img: "/cj.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/html.svg"],
-    link: "https://cj-tawny.vercel.app/",
+    link: "https://cjvisuals-gallery-tawny.vercel.app/",
     
   },
   {
