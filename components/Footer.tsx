@@ -21,7 +21,7 @@ const Footer = () => {
         <p className="text-white-200 md:mt-10 my-5 text-center">
          Envoyez moi un mail et voyons comment je peux vous aider.
         </p>
-        <a href="mailto:contact@jsmastery.pro">
+        <a href="mailto:raguetteraphael@gmail.com">
           <MagicButton
             title="C'est parti!"
             icon={<FaLocationArrow />}
